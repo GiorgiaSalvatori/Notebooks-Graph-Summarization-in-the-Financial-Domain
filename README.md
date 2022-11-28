@@ -4,6 +4,10 @@
     - statistics over the summary and reconstruction graphs.
     - the creation of the possible world set.
     - all the queries reported in the thesis using Naïve-GPQP and Probabilistic-GPQP approaches on the summary graph.
+ * **Riondato-real-graph** this notebook is about the real graphs used for the experimental analysis:LastFM, Facebook, Enron, Ubuntu and Gnutella. Further it contains:
+    - the  $l_2RE$ algorithm to build both the summary graph and the recontruction graph given in input a real graph.
+    - statistics over the summary and reconstruction graphs.
+    - all the queries reported in the thesis using Naïve-GPQP approach on the summary graph.
  * **Riondato-syn-graph** this notebook permits the creation of the edge lists of the transaction graphs syntethically generated. Further it contains:
     - the  $l_2RE$ algorithm to build both the summary graph and the recontruction graph given in input a synthetic transaction graph.
     - statistics over the summary and reconstruction graphs.
